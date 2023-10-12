@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class zadanie2 {
+public class zadanie3 {
     public static void main(String[] args) {
 
         Scanner klawiatura = new Scanner(System.in);
